@@ -13,7 +13,7 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014 -->
-* B.S. in Basic Science of Mathematics and Physics & Interdisciplinary Engineering (Dual Degree), Tsinghua University, 2027 (expected)
+* B.S. in Basic Science of Mathematics and Physics & Energy and Power Engineering (Dual Degree), Tsinghua University, 2027 (expected)
 
 <!-- Work experience
 ======
