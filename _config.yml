@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Z.Y. Lin / Homepage"
+title                    : "Z.Y. Lin / Site Title"
 title_separator          : "-"
 name                     : &name "Lin Zhangye"
 description              : &description "personal description"
