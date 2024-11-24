@@ -38,7 +38,7 @@ Skills
 * Deep Learning Frameworks
   * PyTorch (proficient)
   * TensorFlow & Keras (familiar)
-* Mastery of Data Structures and Algorithms
+* Familiar with Data Structures and Algorithms
 
 Publications
 ======
